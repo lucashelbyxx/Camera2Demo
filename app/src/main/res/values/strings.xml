@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera2Demo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_capture">CaptureActivity</string>
+    <string name="title_activity_camera2">Camera2Activity</string>
+    <string name="title_activity_camera2_face">Camera2ActivityFace</string>
+</resources>
